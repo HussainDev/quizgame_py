@@ -1,5 +1,191 @@
 question_pool = [
     {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["A. China", "B. Japan", "C. Thailand", "D. South Korea"],
+        "answer": "B",
+        "answer_text": "Japan"
+    },
+    {
+        "question": "How many sides does a hexagon have?",
+        "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+        "answer": "B",
+        "answer_text": "6"
+    },
+    {
+        "question": "What is the freezing point of water in Celsius?",
+        "options": ["A. 0", "B. 32", "C. -10", "D. 100"],
+        "answer": "A",
+        "answer_text": "0"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["A. Gold", "B. Oxygen", "C. Osmium", "D. Iron"],
+        "answer": "B",
+        "answer_text": "Oxygen"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["A. Tomato", "B. Avocado", "C. Pepper", "D. Lime"],
+        "answer": "B",
+        "answer_text": "Avocado"
+    },
+    {
+        "question": "Which month has 28 days in a common year?",
+        "options": ["A. January", "B. February", "C. April", "D. June"],
+        "answer": "B",
+        "answer_text": "February"
+    },
+    {
+        "question": "What is the name of the largest ocean on Earth?",
+        "options": ["A. Atlantic", "B. Indian", "C. Pacific", "D. Arctic"],
+        "answer": "C",
+        "answer_text": "Pacific"
+    },
+    {
+        "question": "Which continent is the Sahara Desert located in?",
+        "options": ["A. Asia", "B. Australia", "C. Africa", "D. Europe"],
+        "answer": "C",
+        "answer_text": "Africa"
+    },
+    {
+        "question": "What is 9 x 9?",
+        "options": ["A. 81", "B. 72", "C. 99", "D. 89"],
+        "answer": "A",
+        "answer_text": "81"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": ["A. Newton", "B. Einstein", "C. Graham Bell", "D. Tesla"],
+        "answer": "C",
+        "answer_text": "Graham Bell"
+    },
+    {
+        "question": "Which animal is known as the King of the Jungle?",
+        "options": ["A. Elephant", "B. Lion", "C. Tiger", "D. Cheetah"],
+        "answer": "B",
+        "answer_text": "Lion"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "options": ["A. 6", "B. 8", "C. 10", "D. 12"],
+        "answer": "B",
+        "answer_text": "8"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["A. Sydney", "B. Melbourne", "C. Canberra", "D. Brisbane"],
+        "answer": "C",
+        "answer_text": "Canberra"
+    },
+    {
+        "question": "Which shape has four equal sides and four right angles?",
+        "options": ["A. Rectangle", "B. Triangle", "C. Square", "D. Rhombus"],
+        "answer": "C",
+        "answer_text": "Square"
+    },
+    {
+        "question": "Who was the first person to walk on the moon?",
+        "options": ["A. Buzz Aldrin", "B. Neil Armstrong", "C. Yuri Gagarin", "D. John Glenn"],
+        "answer": "B",
+        "answer_text": "Neil Armstrong"
+    },
+    {
+        "question": "Which animal is the fastest on land?",
+        "options": ["A. Leopard", "B. Horse", "C. Cheetah", "D. Gazelle"],
+        "answer": "C",
+        "answer_text": "Cheetah"
+    },
+    {
+        "question": "What do bees produce?",
+        "options": ["A. Wax", "B. Milk", "C. Honey", "D. Oil"],
+        "answer": "C",
+        "answer_text": "Honey"
+    },
+    {
+        "question": "What is the opposite of 'cold'?",
+        "options": ["A. Freeze", "B. Warm", "C. Ice", "D. Hot"],
+        "answer": "D",
+        "answer_text": "Hot"
+    },
+    {
+        "question": "Which planet has rings?",
+        "options": ["A. Mars", "B. Neptune", "C. Saturn", "D. Earth"],
+        "answer": "C",
+        "answer_text": "Saturn"
+    },
+    {
+        "question": "How many hours are in a day?",
+        "options": ["A. 12", "B. 24", "C. 36", "D. 48"],
+        "answer": "B",
+        "answer_text": "24"
+    },
+    {
+        "question": "Which bird is a symbol of peace?",
+        "options": ["A. Eagle", "B. Dove", "C. Crow", "D. Owl"],
+        "answer": "B",
+        "answer_text": "Dove"
+    },
+    {
+        "question": "What do you use to take a photo?",
+        "options": ["A. Scanner", "B. Printer", "C. Camera", "D. Projector"],
+        "answer": "C",
+        "answer_text": "Camera"
+    },
+    {
+        "question": "What color is an emerald?",
+        "options": ["A. Blue", "B. Green", "C. Yellow", "D. Red"],
+        "answer": "B",
+        "answer_text": "Green"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["A. Mount Kilimanjaro", "B. Mount Everest", "C. K2", "D. Alps"],
+        "answer": "B",
+        "answer_text": "Mount Everest"
+    },
+    {
+        "question": "How many wheels does a tricycle have?",
+        "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+        "answer": "C",
+        "answer_text": "3"
+    },
+    {
+        "question": "Which fruit has its seeds on the outside?",
+        "options": ["A. Banana", "B. Grape", "C. Strawberry", "D. Apple"],
+        "answer": "C",
+        "answer_text": "Strawberry"
+    },
+    {
+        "question": "What is the name of Harry Potter’s pet owl?",
+        "options": ["A. Scabbers", "B. Hedwig", "C. Crookshanks", "D. Fang"],
+        "answer": "B",
+        "answer_text": "Hedwig"
+    },
+    {
+        "question": "Which blood type is known as the universal donor?",
+        "options": ["A. A+", "B. O-", "C. AB+", "D. B-"],
+        "answer": "B",
+        "answer_text": "O-"
+    },
+    {
+        "question": "Which part of the plant conducts photosynthesis?",
+        "options": ["A. Stem", "B. Leaf", "C. Root", "D. Flower"],
+        "answer": "B",
+        "answer_text": "Leaf"
+    },
+    {
+        "question": "Which country invented pizza?",
+        "options": ["A. Greece", "B. USA", "C. Italy", "D. France"],
+        "answer": "C",
+        "answer_text": "Italy"
+    },
+    {
+        "question": "Which continent is also a country?",
+        "options": ["A. Antarctica", "B. Australia", "C. Europe", "D. Africa"],
+        "answer": "B",
+        "answer_text": "Australia"
+    },
+    {
         "question": "What is the capital of France?",
         "options": ["A. Paris", "B. Rome", "C. Madrid", "D. Berlin"],
         "answer": "A",
