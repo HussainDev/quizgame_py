@@ -1,1 +1,2 @@
-a
+print('hai')
+print('hwllo')
