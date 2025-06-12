@@ -372,7 +372,7 @@ def run_quiz(question_pool):
             "is_correct": correct
         })
 
-    print("\n🎯 Game Over!")
+    print("\n🎯 Game Over! 🎯")
     print(f"Your final score: {score} / {total_qs + (score // 3)}\n")  # includes streak bonus
 
     # ------------- Post-game Menu -------------
