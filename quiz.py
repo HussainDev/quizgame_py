@@ -385,7 +385,7 @@ def run_quiz(question_pool):
         choice = input("Enter your choice (1/2/3): ").strip()
 
         if choice == "1":
-            print("\n📝 Detailed Scoreboard:")
+            print("\n📝 Detailed Scoreboard: 📝")
             for i, res in enumerate(detailed_results, start=1):
                 status = "✅" if res["is_correct"] else "❌"
                 print(f"\nQ{i}: {res['question']}")
@@ -396,7 +396,7 @@ def run_quiz(question_pool):
             run_quiz(question_pool)
             break
         elif choice == "3":
-            print("👋 Thanks for playing!")
+            print("👋 Thanks for playing! 👋")
             break
         else:
             print("Please enter a valid option (1, 2, or 3).")
